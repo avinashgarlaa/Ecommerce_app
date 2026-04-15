@@ -158,3 +158,4 @@ Open `http://localhost:3000`.
 
 This implementation is custom-built for this project requirement and not copied from public repository boilerplates beyond standard library/framework starters.
 # Ecommerce_web_app
+# Ecommerce_app
